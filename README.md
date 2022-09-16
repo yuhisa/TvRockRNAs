@@ -1,7 +1,13 @@
 # TvRockRNAs
 
+![tvrock_rnas](https://user-images.githubusercontent.com/14344890/190704694-86714ce0-7338-4f3d-a48a-3d23e4457b3e.png)
+
 ## 概要
  - 本ソフトウェアは、TvRockにおけるファイル名置き換えの設定を補助するソフトです。
+ 
+## ダウンロード
+
+https://github.com/yuhisa/TvRockRNAs/releases
 
 ## 動作環境
  - WindowsXP SP3 以降
